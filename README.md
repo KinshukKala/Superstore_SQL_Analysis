@@ -137,7 +137,8 @@ sql/
 
 screenshots/
 
-* Query outputs and result screenshots
+* results.pdf
+  Query outputs and result screenshots
 
 ---
 
