@@ -138,7 +138,8 @@ sql/
 screenshots/
 
 * results.pdf
-  Query outputs and result screenshots
+
+Query outputs and result screenshots
 
 ---
 
