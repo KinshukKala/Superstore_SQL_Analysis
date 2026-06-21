@@ -145,4 +145,4 @@ Query outputs and result screenshots
 
 ## Author
 
-Kinshuk
+Kinshuk Kala
